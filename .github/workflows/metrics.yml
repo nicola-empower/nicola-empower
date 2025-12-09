@@ -1,0 +1,38 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (Optional) Run workflow manually
+  workflow_dispatch:
+  # (Optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # User info
+          user: nicola-empower
+          template: classic
+          
+          # The specific setup from the screenshot:
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/London
+          
+          # 1. The Calendar (Green Squares at the top)
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          
+          # 2. The Radar Chart (Spider graph at the bottom right)
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
