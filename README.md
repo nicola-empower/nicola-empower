@@ -2,7 +2,7 @@
 <h3 align="left">Full Stack Developer | Scotland</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nicola-empower&label=Profile%20views&color=0e75b6&style=flat" alt="nicola-empower" />
+  <img src="https://komarev.com/ghpvc/?username=nicola-empower&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="nicola-empower" />
 </p>
 
 <br/>
@@ -14,7 +14,7 @@
       <ul>
         <li>🔭 Currently working on <b>ProjectDANA</b></li>
         <li>🌱 Currently learning <b>Web Design</b></li>
-        <li>🏢 Founder of: <a href="https://empowervaservices.co.uk"><b>Empower Virtual Assistant Services</b></a>,</li>  <li><a href="https://empowerautomation.co.uk"><b>Empower Automation</b></a> &</li>  <li><a href="https://empowerdigitalsolutions.co.uk"><b>Empower Digital Solutions</b></a></li>
+        <li>🏢 Founder of: <a href="https://empowervaservices.co.uk"><b>Empower Virtual Assistant Services</b></a>,</li>  <li><a href="https://empowerautomation.co.uk"><b>Empower Automation</b></a> &amp; </li>  <li><a href="https://empowerdigitalsolutions.co.uk"><b>Empower Digital Solutions</b></a></li>
         <li>👨‍💻 Portfolio: <a href="https://portfolio-nicola-berry.vercel.app/"><b>nicola-berry.vercel.app</b></a></li>
         <li>📄 Read my CV: <a href="https://portfolio-nicola-berry.vercel.app/cv"><b>View Resume</b></a></li>
         <li>📫 Contact: <b>nicola@empowerdigitalsolutions.co.uk</b></li>
@@ -25,9 +25,9 @@
     <td valign="top" width="40%">
       <h2>📊 Weekly Stats</h2>
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-empower&amp;theme=radical&amp;hide_border=true" alt="streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-empower&amp;amp;theme=radical&amp;amp;hide_border=true" alt="streak" width="100%" />
         <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicola-empower&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="languages" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicola-empower&amp;amp;show_icons=true&amp;amp;locale=en&amp;amp;layout=compact&amp;amp;theme=radical&amp;amp;hide_border=true" alt="languages" width="100%" />
       </div>
     </td>
   </tr>
@@ -37,37 +37,37 @@
 
 <h2>🛠 Tech Stack</h2>
 
-<h3>🎨 Frontend & Design</h3>
+<h3>🎨 Frontend &amp; Design</h3>
 <p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&amp;logo=astro&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&amp;logo=svelte&amp;logoColor=FF3E00" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&amp;logo=tailwind-css&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&amp;logo=framer&amp;logoColor=white" />
 </p>
 
-<h3>⚙️ Backend & Database</h3>
+<h3>⚙️ Backend &amp; Database</h3>
 <p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" />
 </p>
 
-<h3>🧰 Tools & DevOps</h3>
+<h3>🧰 Tools &amp; DevOps</h3>
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&amp;logo=google-cloud&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" />
 </p>
 
 <br/>
