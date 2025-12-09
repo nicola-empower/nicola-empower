@@ -20,7 +20,7 @@
         <li>📫 Contact: <b>nicola@empowerdigitalsolutions.co.uk</b></li>
       </ul>
       <br/>
-      <p><i><b>"I build solutions that empower businesses."</b></i></p>
+      <p><i><b>"Building solutions that Empower businesses."</b></i></p>
     </td>
     <td valign="top" width="40%">
       <h2>📊 Weekly Stats</h2>
@@ -71,8 +71,3 @@
 </p>
 
 <br/>
-
-<h2>📈 Activity Overview</h2>
-<div align="left">
-  <img src="https://github.com/nicola-empower/nicola-empower/blob/main/github-metrics.svg" alt="Metrics Graph" width="100%" />
-</div>
