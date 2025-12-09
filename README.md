@@ -14,7 +14,7 @@
       <ul>
         <li>🔭 Currently working on <b>ProjectDANA</b></li>
         <li>🌱 Currently learning <b>Web Design</b></li>
-        <li>🏢 Founder of <a href="https://empowervaservices.co.uk"><b>Empower Virtual Assistant Services</b></a> & <a href="https://empowerautomation.co.uk"><b>Empower Automation</b></a></li>
+        <li>🏢 Founder of: <a href="https://empowervaservices.co.uk"><b>Empower Virtual Assistant Services</b></a>,</li>  <li><a href="https://empowerautomation.co.uk"><b>Empower Automation</b></a> &</li>  <li><a href="https://empowerdigitalsolutions.co.uk"><b>Empower Digital Solutions</b></a></li>
         <li>👨‍💻 Portfolio: <a href="https://portfolio-nicola-berry.vercel.app/"><b>nicola-berry.vercel.app</b></a></li>
         <li>📄 Read my CV: <a href="https://portfolio-nicola-berry.vercel.app/cv"><b>View Resume</b></a></li>
         <li>📫 Contact: <b>nicola@empowerdigitalsolutions.co.uk</b></li>
@@ -25,9 +25,9 @@
     <td valign="top" width="40%">
       <h2>📊 Weekly Stats</h2>
       <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-empower&theme=radical&hide_border=true&card_width=320" alt="streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-empower&amp;theme=radical&amp;hide_border=true" alt="streak" width="100%" />
         <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicola-empower&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&card_width=320" alt="languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicola-empower&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=radical&amp;hide_border=true" alt="languages" width="100%" />
       </div>
     </td>
   </tr>
