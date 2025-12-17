@@ -21,8 +21,8 @@
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerautomation.co.uk">Empower Automation</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerdigitalsolutions.co.uk">Empower Digital Solutions</a>
         </li>
-        <li>👨‍💻 Portfolio: <a href="[https://www.nicolaberry.uk/](https://www.nicolaberry.uk/)"><b>nicola-berry</b></a></li>
-        <li>📄 Read my CV: <a href="[https://www.nicolaberry.uk/cv](https://www.nicolaberry.uk/cv)"><b>View Resume</b></a></li>
+        <li>👨‍💻 Portfolio: <a href="https://www.nicolaberry.uk/"><b>Nicola Berry</b></a></li>
+        <li>📄 Read my CV: <a href="https://www.nicolaberry.uk/cv"><b>View Resume</b></a></li>
         <li>📫 Contact: <b>connect@nicolaberry.uk</b></li>
       </ul>
       <br/>
