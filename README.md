@@ -21,9 +21,9 @@
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerautomation.co.uk">Empower Automation</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerdigitalsolutions.co.uk">Empower Digital Solutions</a>
         </li>
-        <li>👨‍💻 Portfolio: <a href="https://portfolio-nicola-berry.vercel.app/"><b>nicola-berry.vercel.app</b></a></li>
-        <li>📄 Read my CV: <a href="https://portfolio-nicola-berry.vercel.app/cv"><b>View Resume</b></a></li>
-        <li>📫 Contact: <b>nicola@empowerdigitalsolutions.co.uk</b></li>
+        <li>👨‍💻 Portfolio: <a href="[https://www.nicolaberry.uk/](https://www.nicolaberry.uk/)"><b>nicola-berry</b></a></li>
+        <li>📄 Read my CV: <a href="[https://www.nicolaberry.uk/cv](https://www.nicolaberry.uk/cv)"><b>View Resume</b></a></li>
+        <li>📫 Contact: <b>connect@nicolaberry.uk</b></li>
       </ul>
       <br/>
       <p><i><b>"Building solutions that Empower businesses."</b></i></p>
@@ -43,7 +43,7 @@
 <br>
 <p align="left">
 <a href="https://linkedin.com/in/empowervaservices" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicola-empower" /></a>
-<a href="mailto:nicola@empowerdigitalsolutions.co.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nicola-empower" /></a>
+<a href="mailto:connect@nicolaberry.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nicola-empower" /></a>
 <a href="https://empowerdigitalsolutions.co.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="nicola-empower" /></a>
 </p>
 </br>
