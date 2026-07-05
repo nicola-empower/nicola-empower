@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2185B&width=435&lines=Hi+there!+I'm+Nicola;Founder+of+Empower+Services;Full+Stack+Developer;Automation+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2185B&width=435&lines=Hi+there!+I'm+Nicola;Founder+of+Empower+Services;Principal+Digital+Systems+Architect;Automation+Expert" alt="Typing SVG" />
 </a>
 <h3 align="left">Full Stack Developer | Scotland</h3>
 
@@ -14,16 +14,16 @@
     <td valign="top" width="60%">
       <h2>👨‍💻 About Me</h2>
       <ul>
-        <li>🔭 Currently working on <b>ProjectDANA</b></li>
-        <li>🌱 Currently learning <b>Web Design</b></li>
+        <li>🔭 Currently working on <b>Words of the Wild Automation and Dashboard</b></li>
         <li>🏢 <b>Founder of:</b>
+            <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerdigitalsolutions.co.uk">Empower Digital Solutions</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowervaservices.co.uk">Empower VA Services</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerautomation.co.uk">Empower Automation</a>
-            <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerdigitalsolutions.co.uk">Empower Digital Solutions</a>
         </li>
         <li>👨‍💻 Portfolio: <a href="https://www.nicolaberry.uk/"><b>Nicola Berry</b></a></li>
         <li>📄 Read my CV: <a href="https://www.nicolaberry.uk/cv"><b>View Resume</b></a></li>
         <li>📫 Contact: <b>connect@nicolaberry.uk</b></li>
+        <p>Most of my best work lives in private repositories.</p>
       </ul>
       <br/>
       <p><i><b>"Building solutions that Empower businesses."</b></i></p>
@@ -59,7 +59,6 @@
   <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
@@ -75,7 +74,6 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
@@ -130,7 +128,7 @@
 <br/>
 <div align="center">
   <blockquote>
-    <i>"My toolkit is designed to bridge the gap between <b>complex development</b> and <b>streamlined business operations</b>, ensuring every technical solution drives real-world growth."</i>
+    <i>"Every project starts with a real business problem. The technology comes afterwards."</i>
   </blockquote>
 </div>
 <br/>
