@@ -55,91 +55,127 @@
 <table>
   <tr>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" /><br>Next.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="55" alt="Next.js" /><br>Next.js
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" /><br>React
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="55" alt="React" /><br>React
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" /><br>TypeScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" alt="TypeScript" /><br>TypeScript
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" /><br>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python" /><br>Python
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" /><br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="55" /><br>Astro
-    </td>
-    <td align="center" width="110">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original-wordmark.svg" width="60" alt="Netlify">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="55" alt="Astro" /><br>Astro
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" /><br>Tailwind
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" alt="Tailwind CSS" /><br>Tailwind
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" /><br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" alt="Google Cloud" /><br>Google Cloud
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" /><br>HTML5
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="55" alt="Azure" /><br>Azure
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" /><br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" alt="Vercel" /><br>Vercel
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" /><br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="55" alt="Netlify" /><br>Netlify
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" /><br>MongoDB
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" /><br>Firebase
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55" /><br>Supabase
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" /><br>Google Cloud
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="55" /><br>Vercel
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" /><br>Git
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" /><br>GitHub
-    </td>
-    <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="60">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" alt="Git" /><br>Git
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" /><br>Ruby
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="55" /><br>Rails
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="55" alt="SQLite" /><br>SQLite
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" /><br>Java
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" alt="MongoDB" /><br>MongoDB
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" /><br>C#
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" alt="Firebase" /><br>Firebase
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" /><br>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="55" alt="Supabase" /><br>Supabase
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55" /><br>Figma
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" alt="Docker" /><br>Docker
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="55" alt="Google Sheets" /><br>Sheets API
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/googledocs/4285F4" width="55" alt="Google Docs" /><br>Docs API
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/googledrive/4285F4" width="55" alt="Google Drive" /><br>Drive API
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" alt="Gmail" /><br>Gmail API
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/googleanalytics/E37400" width="55" alt="Google Analytics" /><br>GA4
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/googlesearchconsole/458CF5" width="55" alt="Google Search Console" /><br>Search Console
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"  width="55" alt="Google Workspace" /><br>Google Workspace
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/anthropic/D97757" width="55" alt="Claude" /><br>Claude
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/google/4285F4" width="55" alt="Gemini" /><br>Gemini
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/figma/F24E1E" width="55" alt="Figma" /><br>Figma
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/framer/0055FF" width="55" alt="Framer Motion" /><br>Framer
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="55" alt="Postman" /><br>Postman
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="55" alt="Ruby" /><br>Ruby
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="55" alt="Rails" /><br>Rails
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java" /><br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="55" alt="C Sharp" /><br>C#
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="55" alt="WordPress" /><br>WordPress
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/shopify/7AB55C" width="55" alt="Shopify" /><br>Shopify
     </td>
   </tr>
 </table>
