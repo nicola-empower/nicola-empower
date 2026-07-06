@@ -1,35 +1,39 @@
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E91E63&section=header&text=Nicola%20Berry&fontColor=ffffff&fontSize=36&animation=fadeIn" />
+</p>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C2185B&width=435&lines=Hi+there!+I'm+Nicola;Founder+of+Empower+Services;Principal+Digital+Systems+Architect;Automation+Expert" alt="Typing SVG" />
 </a>
 <h3 align="left">Full Stack Developer | Scotland</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nicola-empower&label=Profile%20views&color=0e75b6&style=flat" alt="nicola-empower" />
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
 </p>
 
 <br/>
 
 <table>
   <tr>
-    <td valign="top" width="60%">
-      <h2>👨‍💻 About Me</h2>
+    <td valign="top" width="45%">
+      <h2>About Me</h2>
       <ul>
-        <li>🔭 Currently working on <b>Words of the Wild Automation and Dashboard</b></li>
+        <li>Currently working on <b>Words of the Wild Automation</b></li>
         <li>🏢 <b>Founder of:</b>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerdigitalsolutions.co.uk">Empower Digital Solutions</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerautomation.co.uk">Empower Automation</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowervaservices.co.uk">Empower VA Services</a>
         </li>
-        <li>👨‍💻 Portfolio: <a href="https://www.nicolaberry.uk/"><b>Nicola Berry</b></a></li>
-        <li>📄 Read my CV: <a href="https://www.nicolaberry.uk/cv"><b>View Resume</b></a></li>
-        <li>📫 Contact: <b>connect@nicolaberry.uk</b></li>
+        <li>Portfolio: <a href="https://www.nicolaberry.uk/"><b>Nicola Berry</b></a></li>
+        <li>Read my CV: <a href="https://www.nicolaberry.uk/cv"><b>View Resume</b></a></li>
+        <li>Contact: <b>connect@nicolaberry.uk</b></li>
         <p>Most of my best work lives in private repositories.</p>
       </ul>
       <br/>
       <p><i><b>"Building solutions that Empower businesses."</b></i></p>
     </td>
     <td valign="center" width="40%">
-      <h2>📊 Weekly Stats</h2>
+      <h2>Weekly Stats</h2>
       <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-empower&theme=radical&hide_border=true" alt="streak" width="100%" />
         <br/><br/>
@@ -47,6 +51,19 @@
 <a href="https://empowerdigitalsolutions.co.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="nicola-empower" /></a>
 </p>
 </br>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12,13,18,20,24" />
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicola-empower&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=E91E63&text_color=444444&icon_color=E91E63" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicola-empower&layout=compact&theme=transparent&hide_border=true&title_color=E91E63&text_color=444444" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12,13,18,20,24" />
+</p>
 
 <h2>🛠 Tech Stack</h2>
 
@@ -180,7 +197,9 @@
   </tr>
 </table>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12,13,18,20,24" />
+</p>
 
 ## GitHub Activity
 
@@ -188,8 +207,19 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicola-empower&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
+</p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicola-empower/nicola-empower/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicola-empower/nicola-empower/output/github-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nicola-empower/nicola-empower/output/github-snake.svg">
+</picture>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
+</p>
 
 <br/>
 <br/>
@@ -200,8 +230,18 @@
 </div>
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
+</p>
 
----
+ ##  Featured Solutions
 
-![GitHub Metrics](./github-metrics.svg?raw=1&v=2)
+☆ **[Words of the Wild](https://github.com/nicola-empower/words-of-the-wild)**  
+National judging platform with Google Apps Script automation and a secure Next.js dashboard.
+
+☆ **[Empower Command Centre](https://github.com/nicola-empower/empower-command-centre)**  
+Operational business dashboard for automation, reporting and executive oversight.
+
+☆ **[Lead Flow Showcase](https://github.com/nicola-empower/lead-flow-showcase)**  
+End-to-end lead management with AI-assisted workflows and Google Workspace integration.
+
