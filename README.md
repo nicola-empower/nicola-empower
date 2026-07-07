@@ -250,7 +250,7 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
 </p>
 
 <p align="center">
-  <img src="docs/uploads/smebadge2026_transparent (3).png" width="120" alt="SME Award"> 
+  <img src="docs/uploads/smenewsbadge2026.png" width="150" alt="SME Award"> 
 </p>
 <p align="center">
   <strong>Best Digital Systems Architecture Analyst</strong><br> 
