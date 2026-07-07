@@ -203,6 +203,18 @@
 
 ## GitHub Activity
 
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicola-empower&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicola-empower&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicola-empower&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicola-empower&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nicola-empower&theme=radical&utcOffset=0)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicola-empower&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
@@ -257,3 +269,6 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
   SME News Enterprise Awards 2026
 </p>
 
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E91E63&section=footer&animation=twinkling" />
+</p>
