@@ -53,7 +53,7 @@
 </br>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12,13,18,20,24" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12,13,18,20,24" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
 </p>
 
 <h2>🛠 Tech Stack</h2>
@@ -198,7 +198,7 @@
 </table>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=8&color=gradient&customColorList=12,13,18,20,24" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
 </p>
 
 ## GitHub Activity
@@ -244,4 +244,16 @@ Operational business dashboard for automation, reporting and executive oversight
 
 ☆ **[Lead Flow Showcase](https://github.com/nicola-empower/lead-flow-showcase)**  
 End-to-end lead management with AI-assisted workflows and Google Workspace integration.
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
+</p>
+
+<p align="center">
+  <img src="docs/uploads/smebadge2026_transparent (3).png" width="120" alt="SME Award"> 
+</p>
+<p align="center">
+  <strong>Best Digital Systems Architecture Analyst</strong><br> 
+  SME News Enterprise Awards 2026
+</p>
 
