@@ -1,5 +1,8 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E91E63&section=header&text=Nicola%20Berry&fontColor=ffffff&fontSize=36&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=180&section=header&text=Nicola%20Berry&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Principal%20Digital%20Architect&descAlignY=58&descSize=22&animation=fadeIn"
+    width="100%"
+  />
 </p>
 
 <a href="https://git.io/typing-svg">
