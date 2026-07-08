@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: nicola-empower
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=#E91E63&color_dots=#ebedf0,#f8bbd0,#f06292,#E91E63,#C2185B
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#E91E63&color_dots=#161b22,#3a1024,#7b1b45,#E91E63,#ff5fa2
 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
