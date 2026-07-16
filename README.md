@@ -219,7 +219,10 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicola-empower&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nicola-empower&bg_color=1A1A1B&color=FFFFFF&title_color=E91E63&line=E91E63&point=FFFFFF&area_color=E91E63&area=true&hide_border=true"
+    width="100%"
+  />
 </p>
 
 <p align="center">
