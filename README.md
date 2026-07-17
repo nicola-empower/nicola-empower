@@ -54,8 +54,11 @@
 <a href="https://empowerdigitalsolutions.co.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="nicola-empower" /></a>
 </p>
 </br>
-
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nicola-empower&label=Profile%20Views&color=e91e63&style=for-the-badge" alt="Nicola's profile views" />
+</p>
+<p align="center">
+  
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
 </p>
 
