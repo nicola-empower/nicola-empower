@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=180&section=header&text=Nicola%20Berry&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Principal%20Digital%20Architect&descAlignY=58&descSize=22&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=E91E63&height=180&section=header&text=Nicola%20Berry&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Principal%20Digital%20Sytems%20Architect&descAlignY=58&descSize=22&animation=fadeIn"
     width="100%"
   />
 </p>
@@ -22,7 +22,7 @@
       <h2>About Me</h2>
       <ul>
         <li>Currently working on <b>Words of the Wild Automation</b></li>
-        <li>🏢 <b>Founder of:</b>
+        <li> <b>Founder of:</b>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerdigitalsolutions.co.uk">Empower Digital Solutions</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowerautomation.co.uk">Empower Automation</a>
             <br/>&nbsp;&nbsp;&nbsp;• <a href="https://empowervaservices.co.uk">Empower VA Services</a>
@@ -49,9 +49,9 @@
 <br/>
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/empowervaservices" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicola-empower" /></a>
-<a href="mailto:connect@nicolaberry.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nicola-empower" /></a>
-<a href="https://empowerdigitalsolutions.co.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="nicola-empower" /></a>
+<a href="https://linkedin.com/in/empowervaservices" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-5C1818?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicola-empower" /></a>
+<a href="mailto:connect@nicolaberry.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Email-5C1818?style=for-the-badge&logo=gmail&logoColor=white" alt="nicola-empower" /></a>
+<a href="https://empowerdigitalsolutions.co.uk" target="blank"><img align="center" src="https://img.shields.io/badge/Website-5C1818?style=for-the-badge&logo=google-chrome&logoColor=burgundy" alt="nicola-empower" /></a>
 </p>
 </br>
 <p align="center">
@@ -71,7 +71,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
 </p>
 
-<h2>🛠 Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <h2>My favourite tools and technologies</h2>
 
@@ -275,7 +275,7 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
 </p>
 <p align="center">
   <strong>Best Digital Systems Architecture Analyst</strong><br> 
-  SME News Enterprise Awards 2026
+  SME News UK Enterprise Awards 2026
 </p>
 
 <p align="center">
