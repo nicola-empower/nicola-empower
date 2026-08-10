@@ -40,7 +40,6 @@
       <div align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicola-empower&theme=radical&hide_border=true" alt="streak" width="100%" />
         <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicola-empower&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="languages" width="100%" />
       </div>
     </td>
   </tr>
