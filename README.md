@@ -278,5 +278,11 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
 </p>
 
 <p align="center">
+  <img src="docs/uploads/switawardnominated2026.jpg" width="150" alt="SME Award"> 
+</p>
+<p align="center">
+<strong>Nominated Scotland Women In Technology Awards 2026</strong><br> 
+
+<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=E91E63&section=footer&animation=twinkling" />
 </p>
