@@ -269,8 +269,18 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=6&color=E91E63" />
 </p>
 
+# Awards
+
 <p align="center">
-  <img src="docs/uploads/smenewsbadge2026.png" width="150" alt="SME Award"> 
+  <img src="docs/uploads/smeaward2026.png" width="800" alt="SME Scotland Award"> 
+</p>
+<p align="center">
+  <strong>Best Digital Innovation Consultancy</strong><br> 
+  SME News Scottish Enterprise Awards 2026
+</p>
+
+<p align="center">
+  <img src="docs/uploads/smenewsbadge2026.png" width="300" alt="SME UK Award"> 
 </p>
 <p align="center">
   <strong>Best Digital Systems Architecture Analyst</strong><br> 
@@ -278,7 +288,24 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
 </p>
 
 <p align="center">
-  <img src="docs/uploads/switawardnominated2026.jpg" width="150" alt="SME Award"> 
+  <img src="docs/uploads/workflow-innovation.png" width="500" alt="SME Scotland Award"> 
+</p>
+<p align="center">
+  <strong>Workflow Innovation Excellence Award</strong><br> 
+  SME News Scottish Enterprise Awards 2026
+</p>
+
+<p align="center">
+  <img src="docs/uploads/automaton-solutions.png" width="500" alt="SME Scotland Award"> 
+</p>
+<p align="center">
+  <strong>Best Emerging Client Owned Automation Solutions Provider</strong><br> 
+  SME News Scottish Enterprise Awards 2026
+</p>
+
+
+<p align="center">
+  <img src="docs/uploads/switawardnominated2026.jpg" width="300" alt="SWiT Nomination"> 
 </p>
 <p align="center">
 <strong>Nominated Scotland Women In Technology Awards 2026</strong><br> 
