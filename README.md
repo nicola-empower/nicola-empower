@@ -280,6 +280,14 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
 </p>
 
 <p align="center">
+  <img src="docs/uploads/365award.png" width="300" alt="365 Awards"> 
+</p>
+<p align="center">
+  <strong>Customer Service Award</strong><br> 
+  365 Awards 2026
+</p>
+
+<p align="center">
   <img src="docs/uploads/smenewsbadge2026.png" width="300" alt="SME UK Award"> 
 </p>
 <p align="center">
