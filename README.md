@@ -272,6 +272,14 @@ End-to-end lead management with AI-assisted workflows and Google Workspace integ
 # Awards
 
 <p align="center">
+  <img src="docs/uploads/Corporate-LiveWire-Global-Awards-Winner.png" width="400" alt="Corporate LiveWire Global Awards"> 
+</p>
+<p align="center">
+  <strong>Business Systems Analyst of the Year</strong><br> 
+  Corporate LiveWire Global Awards 2026/27
+</p>
+
+<p align="center">
   <img src="docs/uploads/smeaward2026.png" width="800" alt="SME Scotland Award"> 
 </p>
 <p align="center">
